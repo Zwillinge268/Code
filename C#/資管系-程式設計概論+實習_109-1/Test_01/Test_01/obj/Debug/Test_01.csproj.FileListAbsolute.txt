@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\Test_01\Test_01\bin\Debug\Test_01.exe.config
+C:\Users\Administrator\source\repos\Test_01\Test_01\bin\Debug\Test_01.exe
+C:\Users\Administrator\source\repos\Test_01\Test_01\bin\Debug\Test_01.pdb
+C:\Users\Administrator\source\repos\Test_01\Test_01\obj\Debug\Test_01.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Test_01\Test_01\obj\Debug\Test_01.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Test_01\Test_01\obj\Debug\Test_01.exe
+C:\Users\Administrator\source\repos\Test_01\Test_01\obj\Debug\Test_01.pdb
+C:\Users\Project_im_sub\Downloads\資管系-程式設計概論+實習_109-1\Test_01\Test_01\bin\Debug\Test_01.exe.config
+C:\Users\Project_im_sub\Downloads\資管系-程式設計概論+實習_109-1\Test_01\Test_01\bin\Debug\Test_01.exe
+C:\Users\Project_im_sub\Downloads\資管系-程式設計概論+實習_109-1\Test_01\Test_01\bin\Debug\Test_01.pdb
+C:\Users\Project_im_sub\Downloads\資管系-程式設計概論+實習_109-1\Test_01\Test_01\obj\Debug\Test_01.csproj.AssemblyReference.cache
+C:\Users\Project_im_sub\Downloads\資管系-程式設計概論+實習_109-1\Test_01\Test_01\obj\Debug\Test_01.csproj.SuggestedBindingRedirects.cache
+C:\Users\Project_im_sub\Downloads\資管系-程式設計概論+實習_109-1\Test_01\Test_01\obj\Debug\Test_01.csproj.CoreCompileInputs.cache
+C:\Users\Project_im_sub\Downloads\資管系-程式設計概論+實習_109-1\Test_01\Test_01\obj\Debug\Test_01.exe
+C:\Users\Project_im_sub\Downloads\資管系-程式設計概論+實習_109-1\Test_01\Test_01\obj\Debug\Test_01.pdb

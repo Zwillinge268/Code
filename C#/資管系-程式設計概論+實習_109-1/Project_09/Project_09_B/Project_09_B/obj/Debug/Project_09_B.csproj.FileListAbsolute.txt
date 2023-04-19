@@ -1,0 +1,15 @@
+E:\Visual Studio C#\Project_09\Project_09_B\Project_09_B\bin\Debug\Project_09_B.exe.config
+E:\Visual Studio C#\Project_09\Project_09_B\Project_09_B\bin\Debug\Project_09_B.exe
+E:\Visual Studio C#\Project_09\Project_09_B\Project_09_B\bin\Debug\Project_09_B.pdb
+E:\Visual Studio C#\Project_09\Project_09_B\Project_09_B\obj\Debug\Project_09_B.csprojAssemblyReference.cache
+E:\Visual Studio C#\Project_09\Project_09_B\Project_09_B\obj\Debug\Project_09_B.csproj.CoreCompileInputs.cache
+E:\Visual Studio C#\Project_09\Project_09_B\Project_09_B\obj\Debug\Project_09_B.exe
+E:\Visual Studio C#\Project_09\Project_09_B\Project_09_B\obj\Debug\Project_09_B.pdb
+C:\Users\Project_im_sub\Downloads\資管系-程式設計概論+實習_109-1\Project_09\Project_09_B\Project_09_B\bin\Debug\Project_09_B.exe.config
+C:\Users\Project_im_sub\Downloads\資管系-程式設計概論+實習_109-1\Project_09\Project_09_B\Project_09_B\bin\Debug\Project_09_B.exe
+C:\Users\Project_im_sub\Downloads\資管系-程式設計概論+實習_109-1\Project_09\Project_09_B\Project_09_B\bin\Debug\Project_09_B.pdb
+C:\Users\Project_im_sub\Downloads\資管系-程式設計概論+實習_109-1\Project_09\Project_09_B\Project_09_B\obj\Debug\Project_09_B.csproj.AssemblyReference.cache
+C:\Users\Project_im_sub\Downloads\資管系-程式設計概論+實習_109-1\Project_09\Project_09_B\Project_09_B\obj\Debug\Project_09_B.csproj.SuggestedBindingRedirects.cache
+C:\Users\Project_im_sub\Downloads\資管系-程式設計概論+實習_109-1\Project_09\Project_09_B\Project_09_B\obj\Debug\Project_09_B.csproj.CoreCompileInputs.cache
+C:\Users\Project_im_sub\Downloads\資管系-程式設計概論+實習_109-1\Project_09\Project_09_B\Project_09_B\obj\Debug\Project_09_B.exe
+C:\Users\Project_im_sub\Downloads\資管系-程式設計概論+實習_109-1\Project_09\Project_09_B\Project_09_B\obj\Debug\Project_09_B.pdb

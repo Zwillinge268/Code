@@ -1,0 +1,15 @@
+C:\Users\Zwillinge\Documents\Project\Project_02\Project_02\bin\Debug\Project_02.exe.config
+C:\Users\Zwillinge\Documents\Project\Project_02\Project_02\bin\Debug\Project_02.exe
+C:\Users\Zwillinge\Documents\Project\Project_02\Project_02\bin\Debug\Project_02.pdb
+C:\Users\Zwillinge\Documents\Project\Project_02\Project_02\obj\Debug\Project_02.csprojAssemblyReference.cache
+C:\Users\Zwillinge\Documents\Project\Project_02\Project_02\obj\Debug\Project_02.csproj.CoreCompileInputs.cache
+C:\Users\Zwillinge\Documents\Project\Project_02\Project_02\obj\Debug\Project_02.exe
+C:\Users\Zwillinge\Documents\Project\Project_02\Project_02\obj\Debug\Project_02.pdb
+C:\Users\Project_im_sub\Downloads\資管系-程式設計概論+實習_109-1\Project_02\Project_02\bin\Debug\Project_02.exe.config
+C:\Users\Project_im_sub\Downloads\資管系-程式設計概論+實習_109-1\Project_02\Project_02\bin\Debug\Project_02.exe
+C:\Users\Project_im_sub\Downloads\資管系-程式設計概論+實習_109-1\Project_02\Project_02\bin\Debug\Project_02.pdb
+C:\Users\Project_im_sub\Downloads\資管系-程式設計概論+實習_109-1\Project_02\Project_02\obj\Debug\Project_02.csproj.AssemblyReference.cache
+C:\Users\Project_im_sub\Downloads\資管系-程式設計概論+實習_109-1\Project_02\Project_02\obj\Debug\Project_02.csproj.SuggestedBindingRedirects.cache
+C:\Users\Project_im_sub\Downloads\資管系-程式設計概論+實習_109-1\Project_02\Project_02\obj\Debug\Project_02.csproj.CoreCompileInputs.cache
+C:\Users\Project_im_sub\Downloads\資管系-程式設計概論+實習_109-1\Project_02\Project_02\obj\Debug\Project_02.exe
+C:\Users\Project_im_sub\Downloads\資管系-程式設計概論+實習_109-1\Project_02\Project_02\obj\Debug\Project_02.pdb
