@@ -1,0 +1,31 @@
+C:\Users\Zwillinge\Videos\Project_10\Project_10\bin\Debug\Project_10.exe.config
+C:\Users\Zwillinge\Videos\Project_10\Project_10\bin\Debug\Project_10.exe
+C:\Users\Zwillinge\Videos\Project_10\Project_10\bin\Debug\Project_10.pdb
+C:\Users\Zwillinge\Videos\Project_10\Project_10\obj\Debug\Project_10.csprojAssemblyReference.cache
+C:\Users\Zwillinge\Videos\Project_10\Project_10\obj\Debug\Project_10.Form1.resources
+C:\Users\Zwillinge\Videos\Project_10\Project_10\obj\Debug\Project_10.Properties.Resources.resources
+C:\Users\Zwillinge\Videos\Project_10\Project_10\obj\Debug\Project_10.csproj.GenerateResource.cache
+C:\Users\Zwillinge\Videos\Project_10\Project_10\obj\Debug\Project_10.csproj.CoreCompileInputs.cache
+C:\Users\Zwillinge\Videos\Project_10\Project_10\obj\Debug\Project_10.exe
+C:\Users\Zwillinge\Videos\Project_10\Project_10\obj\Debug\Project_10.pdb
+C:\Users\Zwillinge\Documents\Study\Visual Studio C#\資管系-程式設計_109-2\Project_10\Project_10\bin\Debug\Project_10.exe.config
+C:\Users\Zwillinge\Documents\Study\Visual Studio C#\資管系-程式設計_109-2\Project_10\Project_10\bin\Debug\Project_10.exe
+C:\Users\Zwillinge\Documents\Study\Visual Studio C#\資管系-程式設計_109-2\Project_10\Project_10\bin\Debug\Project_10.pdb
+C:\Users\Zwillinge\Documents\Study\Visual Studio C#\資管系-程式設計_109-2\Project_10\Project_10\obj\Debug\Project_10.csprojAssemblyReference.cache
+C:\Users\Zwillinge\Documents\Study\Visual Studio C#\資管系-程式設計_109-2\Project_10\Project_10\obj\Debug\Project_10.Form1.resources
+C:\Users\Zwillinge\Documents\Study\Visual Studio C#\資管系-程式設計_109-2\Project_10\Project_10\obj\Debug\Project_10.Properties.Resources.resources
+C:\Users\Zwillinge\Documents\Study\Visual Studio C#\資管系-程式設計_109-2\Project_10\Project_10\obj\Debug\Project_10.csproj.GenerateResource.cache
+C:\Users\Zwillinge\Documents\Study\Visual Studio C#\資管系-程式設計_109-2\Project_10\Project_10\obj\Debug\Project_10.csproj.CoreCompileInputs.cache
+C:\Users\Zwillinge\Documents\Study\Visual Studio C#\資管系-程式設計_109-2\Project_10\Project_10\obj\Debug\Project_10.exe
+C:\Users\Zwillinge\Documents\Study\Visual Studio C#\資管系-程式設計_109-2\Project_10\Project_10\obj\Debug\Project_10.pdb
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\Project_10\Project_10\bin\Debug\Project_10.exe.config
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\Project_10\Project_10\bin\Debug\Project_10.exe
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\Project_10\Project_10\bin\Debug\Project_10.pdb
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\Project_10\Project_10\obj\Debug\Project_10.csproj.AssemblyReference.cache
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\Project_10\Project_10\obj\Debug\Project_10.csproj.SuggestedBindingRedirects.cache
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\Project_10\Project_10\obj\Debug\Project_10.Form1.resources
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\Project_10\Project_10\obj\Debug\Project_10.Properties.Resources.resources
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\Project_10\Project_10\obj\Debug\Project_10.csproj.GenerateResource.cache
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\Project_10\Project_10\obj\Debug\Project_10.csproj.CoreCompileInputs.cache
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\Project_10\Project_10\obj\Debug\Project_10.exe
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\Project_10\Project_10\obj\Debug\Project_10.pdb

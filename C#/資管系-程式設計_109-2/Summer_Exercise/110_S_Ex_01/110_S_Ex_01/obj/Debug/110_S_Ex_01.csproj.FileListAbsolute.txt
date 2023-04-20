@@ -1,0 +1,27 @@
+C:\Users\Zwillinge\Pictures\110_S_Ex_01\110_S_Ex_01\bin\Debug\110_S_Ex_01.exe.config
+C:\Users\Zwillinge\Pictures\110_S_Ex_01\110_S_Ex_01\bin\Debug\110_S_Ex_01.exe
+C:\Users\Zwillinge\Pictures\110_S_Ex_01\110_S_Ex_01\bin\Debug\110_S_Ex_01.pdb
+C:\Users\Zwillinge\Pictures\110_S_Ex_01\110_S_Ex_01\obj\Debug\110_S_Ex_01.csprojAssemblyReference.cache
+C:\Users\Zwillinge\Pictures\110_S_Ex_01\110_S_Ex_01\obj\Debug\_110_S_Ex_01.Form1.resources
+C:\Users\Zwillinge\Pictures\110_S_Ex_01\110_S_Ex_01\obj\Debug\_110_S_Ex_01.Properties.Resources.resources
+C:\Users\Zwillinge\Pictures\110_S_Ex_01\110_S_Ex_01\obj\Debug\110_S_Ex_01.csproj.GenerateResource.cache
+C:\Users\Zwillinge\Pictures\110_S_Ex_01\110_S_Ex_01\obj\Debug\110_S_Ex_01.csproj.CoreCompileInputs.cache
+C:\Users\Zwillinge\Pictures\110_S_Ex_01\110_S_Ex_01\obj\Debug\110_S_Ex_01.exe
+C:\Users\Zwillinge\Pictures\110_S_Ex_01\110_S_Ex_01\obj\Debug\110_S_Ex_01.pdb
+C:\Users\Zwillinge\Pictures\110_S_Ex_01\110_S_Ex_01\obj\Debug\_110_S_Ex_01.Form2.resources
+C:\Users\Zwillinge\Pictures\110_S_Ex_01\110_S_Ex_01\bin\Debug\zxing.dll
+C:\Users\Zwillinge\Pictures\110_S_Ex_01\110_S_Ex_01\obj\Debug\110_S_Ex_01.csproj.CopyComplete
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\Summer Exercise\110_S_Ex_01\110_S_Ex_01\bin\Debug\110_S_Ex_01.exe.config
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\Summer Exercise\110_S_Ex_01\110_S_Ex_01\bin\Debug\110_S_Ex_01.exe
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\Summer Exercise\110_S_Ex_01\110_S_Ex_01\bin\Debug\110_S_Ex_01.pdb
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\Summer Exercise\110_S_Ex_01\110_S_Ex_01\bin\Debug\zxing.dll
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\Summer Exercise\110_S_Ex_01\110_S_Ex_01\obj\Debug\110_S_Ex_01.csproj.AssemblyReference.cache
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\Summer Exercise\110_S_Ex_01\110_S_Ex_01\obj\Debug\110_S_Ex_01.csproj.SuggestedBindingRedirects.cache
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\Summer Exercise\110_S_Ex_01\110_S_Ex_01\obj\Debug\_110_S_Ex_01.Form1.resources
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\Summer Exercise\110_S_Ex_01\110_S_Ex_01\obj\Debug\_110_S_Ex_01.Form2.resources
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\Summer Exercise\110_S_Ex_01\110_S_Ex_01\obj\Debug\_110_S_Ex_01.Properties.Resources.resources
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\Summer Exercise\110_S_Ex_01\110_S_Ex_01\obj\Debug\110_S_Ex_01.csproj.GenerateResource.cache
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\Summer Exercise\110_S_Ex_01\110_S_Ex_01\obj\Debug\110_S_Ex_01.csproj.CoreCompileInputs.cache
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\Summer Exercise\110_S_Ex_01\110_S_Ex_01\obj\Debug\110_S_Ex_01.csproj.CopyComplete
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\Summer Exercise\110_S_Ex_01\110_S_Ex_01\obj\Debug\110_S_Ex_01.exe
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\Summer Exercise\110_S_Ex_01\110_S_Ex_01\obj\Debug\110_S_Ex_01.pdb

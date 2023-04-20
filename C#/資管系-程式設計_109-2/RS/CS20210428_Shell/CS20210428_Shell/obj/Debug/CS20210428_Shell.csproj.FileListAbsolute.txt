@@ -1,0 +1,70 @@
+D:\109學年\109-2\109-2_教學\109-2_程式設計\Program\CS20210428_Shell\CS20210428_Shell\bin\Debug\CS20210428_Shell.exe.config
+D:\109學年\109-2\109-2_教學\109-2_程式設計\Program\CS20210428_Shell\CS20210428_Shell\bin\Debug\CS20210428_Shell.exe
+D:\109學年\109-2\109-2_教學\109-2_程式設計\Program\CS20210428_Shell\CS20210428_Shell\bin\Debug\CS20210428_Shell.pdb
+D:\109學年\109-2\109-2_教學\109-2_程式設計\Program\CS20210428_Shell\CS20210428_Shell\obj\Debug\CS20210428_Shell.csprojAssemblyReference.cache
+D:\109學年\109-2\109-2_教學\109-2_程式設計\Program\CS20210428_Shell\CS20210428_Shell\obj\Debug\CS20210428_Shell.Form1.resources
+D:\109學年\109-2\109-2_教學\109-2_程式設計\Program\CS20210428_Shell\CS20210428_Shell\obj\Debug\CS20210428_Shell.Properties.Resources.resources
+D:\109學年\109-2\109-2_教學\109-2_程式設計\Program\CS20210428_Shell\CS20210428_Shell\obj\Debug\CS20210428_Shell.csproj.GenerateResource.cache
+D:\109學年\109-2\109-2_教學\109-2_程式設計\Program\CS20210428_Shell\CS20210428_Shell\obj\Debug\CS20210428_Shell.csproj.CoreCompileInputs.cache
+D:\109學年\109-2\109-2_教學\109-2_程式設計\Program\CS20210428_Shell\CS20210428_Shell\obj\Debug\CS20210428_Shell.exe
+D:\109學年\109-2\109-2_教學\109-2_程式設計\Program\CS20210428_Shell\CS20210428_Shell\obj\Debug\CS20210428_Shell.pdb
+D:\109學年\109-2\109-2_教學\109-2_程式設計\109-2_補強課程\Recursion_遞迴\CS20210428_Shell\CS20210428_Shell\obj\Debug\CS20210428_Shell.Form1.resources
+D:\109學年\109-2\109-2_教學\109-2_程式設計\109-2_補強課程\Recursion_遞迴\CS20210428_Shell\CS20210428_Shell\obj\Debug\CS20210428_Shell.csproj.GenerateResource.cache
+D:\109學年\109-2\109-2_教學\109-2_程式設計\109-2_補強課程\Recursion_遞迴\CS20210428_Shell\CS20210428_Shell\obj\Debug\CS20210428_Shell.exe
+D:\109學年\109-2\109-2_教學\109-2_程式設計\109-2_補強課程\Recursion_遞迴\CS20210428_Shell\CS20210428_Shell\obj\Debug\CS20210428_Shell.pdb
+D:\109學年\109-2\109-2_教學\109-2_程式設計\109-2_補強課程\Recursion_遞迴\CS20210428_Shell\CS20210428_Shell\bin\Debug\CS20210428_Shell.exe.config
+D:\109學年\109-2\109-2_教學\109-2_程式設計\109-2_補強課程\Recursion_遞迴\CS20210428_Shell\CS20210428_Shell\bin\Debug\CS20210428_Shell.exe
+D:\109學年\109-2\109-2_教學\109-2_程式設計\109-2_補強課程\Recursion_遞迴\CS20210428_Shell\CS20210428_Shell\bin\Debug\CS20210428_Shell.pdb
+D:\109學年\109-2\109-2_教學\109-2_程式設計\109-2_補強課程\Recursion_遞迴\CS20210428_Shell\CS20210428_Shell\obj\Debug\CS20210428_Shell.Properties.Resources.resources
+D:\109學年\109-2\109-2_教學\109-2_程式設計\109-2_補強課程\Recursion_遞迴\CS20210428_Shell\CS20210428_Shell\obj\Debug\CS20210428_Shell.csproj.CoreCompileInputs.cache
+D:\109學年\109-2\109-2_教學\109-2_程式設計\109-2_補強課程\Recursion_遞迴\CS20210428_Shell\CS20210428_Shell\obj\Debug\CS20210428_Shell.csprojAssemblyReference.cache
+D:\RS\CS20210428_Shell\CS20210428_Shell\bin\Debug\CS20210428_Shell.exe.config
+D:\RS\CS20210428_Shell\CS20210428_Shell\bin\Debug\CS20210428_Shell.exe
+D:\RS\CS20210428_Shell\CS20210428_Shell\bin\Debug\CS20210428_Shell.pdb
+D:\RS\CS20210428_Shell\CS20210428_Shell\obj\Debug\CS20210428_Shell.csprojAssemblyReference.cache
+D:\RS\CS20210428_Shell\CS20210428_Shell\obj\Debug\CS20210428_Shell.Form1.resources
+D:\RS\CS20210428_Shell\CS20210428_Shell\obj\Debug\CS20210428_Shell.Properties.Resources.resources
+D:\RS\CS20210428_Shell\CS20210428_Shell\obj\Debug\CS20210428_Shell.csproj.GenerateResource.cache
+D:\RS\CS20210428_Shell\CS20210428_Shell\obj\Debug\CS20210428_Shell.csproj.CoreCompileInputs.cache
+D:\RS\CS20210428_Shell\CS20210428_Shell\obj\Debug\CS20210428_Shell.exe
+D:\RS\CS20210428_Shell\CS20210428_Shell\obj\Debug\CS20210428_Shell.pdb
+D:\Visual Studio C#\RS\CS20210428_Shell\CS20210428_Shell\obj\Debug\CS20210428_Shell.csprojAssemblyReference.cache
+D:\Visual Studio C#\RS\CS20210428_Shell\CS20210428_Shell\obj\Debug\CS20210428_Shell.Form1.resources
+D:\Visual Studio C#\RS\CS20210428_Shell\CS20210428_Shell\obj\Debug\CS20210428_Shell.Properties.Resources.resources
+D:\Visual Studio C#\RS\CS20210428_Shell\CS20210428_Shell\obj\Debug\CS20210428_Shell.csproj.GenerateResource.cache
+D:\Visual Studio C#\RS\CS20210428_Shell\CS20210428_Shell\obj\Debug\CS20210428_Shell.csproj.CoreCompileInputs.cache
+D:\Visual Studio C#\RS\CS20210428_Shell\CS20210428_Shell\obj\Debug\CS20210428_Shell.exe
+D:\Visual Studio C#\RS\CS20210428_Shell\CS20210428_Shell\obj\Debug\CS20210428_Shell.pdb
+D:\Visual Studio C#\RS\CS20210428_Shell\CS20210428_Shell\bin\Debug\CS20210428_Shell.exe.config
+D:\Visual Studio C#\RS\CS20210428_Shell\CS20210428_Shell\bin\Debug\CS20210428_Shell.exe
+D:\Visual Studio C#\RS\CS20210428_Shell\CS20210428_Shell\bin\Debug\CS20210428_Shell.pdb
+E:\Visual Studio C#\資管系-程式設計_109-2\RS\CS20210428_Shell\CS20210428_Shell\bin\Debug\CS20210428_Shell.exe.config
+E:\Visual Studio C#\資管系-程式設計_109-2\RS\CS20210428_Shell\CS20210428_Shell\bin\Debug\CS20210428_Shell.exe
+E:\Visual Studio C#\資管系-程式設計_109-2\RS\CS20210428_Shell\CS20210428_Shell\bin\Debug\CS20210428_Shell.pdb
+E:\Visual Studio C#\資管系-程式設計_109-2\RS\CS20210428_Shell\CS20210428_Shell\obj\Debug\CS20210428_Shell.csprojAssemblyReference.cache
+E:\Visual Studio C#\資管系-程式設計_109-2\RS\CS20210428_Shell\CS20210428_Shell\obj\Debug\CS20210428_Shell.Form1.resources
+E:\Visual Studio C#\資管系-程式設計_109-2\RS\CS20210428_Shell\CS20210428_Shell\obj\Debug\CS20210428_Shell.Properties.Resources.resources
+E:\Visual Studio C#\資管系-程式設計_109-2\RS\CS20210428_Shell\CS20210428_Shell\obj\Debug\CS20210428_Shell.csproj.GenerateResource.cache
+E:\Visual Studio C#\資管系-程式設計_109-2\RS\CS20210428_Shell\CS20210428_Shell\obj\Debug\CS20210428_Shell.csproj.CoreCompileInputs.cache
+E:\Visual Studio C#\資管系-程式設計_109-2\RS\CS20210428_Shell\CS20210428_Shell\obj\Debug\CS20210428_Shell.exe
+E:\Visual Studio C#\資管系-程式設計_109-2\RS\CS20210428_Shell\CS20210428_Shell\obj\Debug\CS20210428_Shell.pdb
+D:\Visual Studio C#\資管系-程式設計_109-2\RS\CS20210428_Shell\CS20210428_Shell\bin\Debug\CS20210428_Shell.exe.config
+D:\Visual Studio C#\資管系-程式設計_109-2\RS\CS20210428_Shell\CS20210428_Shell\bin\Debug\CS20210428_Shell.exe
+D:\Visual Studio C#\資管系-程式設計_109-2\RS\CS20210428_Shell\CS20210428_Shell\bin\Debug\CS20210428_Shell.pdb
+D:\Visual Studio C#\資管系-程式設計_109-2\RS\CS20210428_Shell\CS20210428_Shell\obj\Debug\CS20210428_Shell.csprojAssemblyReference.cache
+D:\Visual Studio C#\資管系-程式設計_109-2\RS\CS20210428_Shell\CS20210428_Shell\obj\Debug\CS20210428_Shell.Form1.resources
+D:\Visual Studio C#\資管系-程式設計_109-2\RS\CS20210428_Shell\CS20210428_Shell\obj\Debug\CS20210428_Shell.Properties.Resources.resources
+D:\Visual Studio C#\資管系-程式設計_109-2\RS\CS20210428_Shell\CS20210428_Shell\obj\Debug\CS20210428_Shell.csproj.GenerateResource.cache
+D:\Visual Studio C#\資管系-程式設計_109-2\RS\CS20210428_Shell\CS20210428_Shell\obj\Debug\CS20210428_Shell.csproj.CoreCompileInputs.cache
+D:\Visual Studio C#\資管系-程式設計_109-2\RS\CS20210428_Shell\CS20210428_Shell\obj\Debug\CS20210428_Shell.exe
+D:\Visual Studio C#\資管系-程式設計_109-2\RS\CS20210428_Shell\CS20210428_Shell\obj\Debug\CS20210428_Shell.pdb
+C:\Users\Zwillinge\Pictures\MUST\RS\CS20210428_Shell\CS20210428_Shell\bin\Debug\CS20210428_Shell.exe.config
+C:\Users\Zwillinge\Pictures\MUST\RS\CS20210428_Shell\CS20210428_Shell\bin\Debug\CS20210428_Shell.exe
+C:\Users\Zwillinge\Pictures\MUST\RS\CS20210428_Shell\CS20210428_Shell\bin\Debug\CS20210428_Shell.pdb
+C:\Users\Zwillinge\Pictures\MUST\RS\CS20210428_Shell\CS20210428_Shell\obj\Debug\CS20210428_Shell.csprojAssemblyReference.cache
+C:\Users\Zwillinge\Pictures\MUST\RS\CS20210428_Shell\CS20210428_Shell\obj\Debug\CS20210428_Shell.Form1.resources
+C:\Users\Zwillinge\Pictures\MUST\RS\CS20210428_Shell\CS20210428_Shell\obj\Debug\CS20210428_Shell.Properties.Resources.resources
+C:\Users\Zwillinge\Pictures\MUST\RS\CS20210428_Shell\CS20210428_Shell\obj\Debug\CS20210428_Shell.csproj.GenerateResource.cache
+C:\Users\Zwillinge\Pictures\MUST\RS\CS20210428_Shell\CS20210428_Shell\obj\Debug\CS20210428_Shell.csproj.CoreCompileInputs.cache
+C:\Users\Zwillinge\Pictures\MUST\RS\CS20210428_Shell\CS20210428_Shell\obj\Debug\CS20210428_Shell.exe
+C:\Users\Zwillinge\Pictures\MUST\RS\CS20210428_Shell\CS20210428_Shell\obj\Debug\CS20210428_Shell.pdb

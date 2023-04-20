@@ -1,0 +1,10 @@
+C:\Users\Zwillinge\Pictures\MUST\CS20210803_Synchronous\CS20210803_Synchronous\bin\Debug\CS20210803_Synchronous.exe.config
+C:\Users\Zwillinge\Pictures\MUST\CS20210803_Synchronous\CS20210803_Synchronous\bin\Debug\CS20210803_Synchronous.exe
+C:\Users\Zwillinge\Pictures\MUST\CS20210803_Synchronous\CS20210803_Synchronous\bin\Debug\CS20210803_Synchronous.pdb
+C:\Users\Zwillinge\Pictures\MUST\CS20210803_Synchronous\CS20210803_Synchronous\obj\Debug\CS20210803_Synchronous.csprojAssemblyReference.cache
+C:\Users\Zwillinge\Pictures\MUST\CS20210803_Synchronous\CS20210803_Synchronous\obj\Debug\CS20210803_Synchronous.Form1.resources
+C:\Users\Zwillinge\Pictures\MUST\CS20210803_Synchronous\CS20210803_Synchronous\obj\Debug\CS20210803_Synchronous.Properties.Resources.resources
+C:\Users\Zwillinge\Pictures\MUST\CS20210803_Synchronous\CS20210803_Synchronous\obj\Debug\CS20210803_Synchronous.csproj.GenerateResource.cache
+C:\Users\Zwillinge\Pictures\MUST\CS20210803_Synchronous\CS20210803_Synchronous\obj\Debug\CS20210803_Synchronous.csproj.CoreCompileInputs.cache
+C:\Users\Zwillinge\Pictures\MUST\CS20210803_Synchronous\CS20210803_Synchronous\obj\Debug\CS20210803_Synchronous.exe
+C:\Users\Zwillinge\Pictures\MUST\CS20210803_Synchronous\CS20210803_Synchronous\obj\Debug\CS20210803_Synchronous.pdb

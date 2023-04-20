@@ -1,0 +1,21 @@
+C:\Users\Zwillinge\Pictures\Summer_Exercise\110_S_Ex_04\Graph_1\Graph_1\bin\Debug\Graph_1.exe.config
+C:\Users\Zwillinge\Pictures\Summer_Exercise\110_S_Ex_04\Graph_1\Graph_1\bin\Debug\Graph_1.exe
+C:\Users\Zwillinge\Pictures\Summer_Exercise\110_S_Ex_04\Graph_1\Graph_1\bin\Debug\Graph_1.pdb
+C:\Users\Zwillinge\Pictures\Summer_Exercise\110_S_Ex_04\Graph_1\Graph_1\obj\Debug\Graph_1.csprojAssemblyReference.cache
+C:\Users\Zwillinge\Pictures\Summer_Exercise\110_S_Ex_04\Graph_1\Graph_1\obj\Debug\Graph_1.Form1.resources
+C:\Users\Zwillinge\Pictures\Summer_Exercise\110_S_Ex_04\Graph_1\Graph_1\obj\Debug\Graph_1.Properties.Resources.resources
+C:\Users\Zwillinge\Pictures\Summer_Exercise\110_S_Ex_04\Graph_1\Graph_1\obj\Debug\Graph_1.csproj.GenerateResource.cache
+C:\Users\Zwillinge\Pictures\Summer_Exercise\110_S_Ex_04\Graph_1\Graph_1\obj\Debug\Graph_1.csproj.CoreCompileInputs.cache
+C:\Users\Zwillinge\Pictures\Summer_Exercise\110_S_Ex_04\Graph_1\Graph_1\obj\Debug\Graph_1.exe
+C:\Users\Zwillinge\Pictures\Summer_Exercise\110_S_Ex_04\Graph_1\Graph_1\obj\Debug\Graph_1.pdb
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\Summer Exercise\110_S_Ex_04\Graph_1\Graph_1\bin\Debug\Graph_1.exe.config
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\Summer Exercise\110_S_Ex_04\Graph_1\Graph_1\bin\Debug\Graph_1.exe
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\Summer Exercise\110_S_Ex_04\Graph_1\Graph_1\bin\Debug\Graph_1.pdb
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\Summer Exercise\110_S_Ex_04\Graph_1\Graph_1\obj\Debug\Graph_1.csproj.AssemblyReference.cache
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\Summer Exercise\110_S_Ex_04\Graph_1\Graph_1\obj\Debug\Graph_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\Summer Exercise\110_S_Ex_04\Graph_1\Graph_1\obj\Debug\Graph_1.Form1.resources
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\Summer Exercise\110_S_Ex_04\Graph_1\Graph_1\obj\Debug\Graph_1.Properties.Resources.resources
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\Summer Exercise\110_S_Ex_04\Graph_1\Graph_1\obj\Debug\Graph_1.csproj.GenerateResource.cache
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\Summer Exercise\110_S_Ex_04\Graph_1\Graph_1\obj\Debug\Graph_1.csproj.CoreCompileInputs.cache
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\Summer Exercise\110_S_Ex_04\Graph_1\Graph_1\obj\Debug\Graph_1.exe
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\Summer Exercise\110_S_Ex_04\Graph_1\Graph_1\obj\Debug\Graph_1.pdb

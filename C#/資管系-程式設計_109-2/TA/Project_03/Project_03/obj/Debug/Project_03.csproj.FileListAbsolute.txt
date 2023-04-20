@@ -1,0 +1,31 @@
+D:\Project_03\Project_03\bin\Debug\Project_03.exe.config
+D:\Project_03\Project_03\bin\Debug\Project_03.exe
+D:\Project_03\Project_03\bin\Debug\Project_03.pdb
+D:\Project_03\Project_03\obj\Debug\Project_03.csprojAssemblyReference.cache
+D:\Project_03\Project_03\obj\Debug\Project_03.Form1.resources
+D:\Project_03\Project_03\obj\Debug\Project_03.Properties.Resources.resources
+D:\Project_03\Project_03\obj\Debug\Project_03.csproj.GenerateResource.cache
+D:\Project_03\Project_03\obj\Debug\Project_03.csproj.CoreCompileInputs.cache
+D:\Project_03\Project_03\obj\Debug\Project_03.exe
+D:\Project_03\Project_03\obj\Debug\Project_03.pdb
+F:\Visual Studio C#\Project_03\Project_03\bin\Debug\Project_03.exe.config
+F:\Visual Studio C#\Project_03\Project_03\bin\Debug\Project_03.exe
+F:\Visual Studio C#\Project_03\Project_03\bin\Debug\Project_03.pdb
+F:\Visual Studio C#\Project_03\Project_03\obj\Debug\Project_03.csprojAssemblyReference.cache
+F:\Visual Studio C#\Project_03\Project_03\obj\Debug\Project_03.Form1.resources
+F:\Visual Studio C#\Project_03\Project_03\obj\Debug\Project_03.Properties.Resources.resources
+F:\Visual Studio C#\Project_03\Project_03\obj\Debug\Project_03.csproj.GenerateResource.cache
+F:\Visual Studio C#\Project_03\Project_03\obj\Debug\Project_03.csproj.CoreCompileInputs.cache
+F:\Visual Studio C#\Project_03\Project_03\obj\Debug\Project_03.exe
+F:\Visual Studio C#\Project_03\Project_03\obj\Debug\Project_03.pdb
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\TA\Project_03\Project_03\bin\Debug\Project_03.exe.config
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\TA\Project_03\Project_03\bin\Debug\Project_03.exe
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\TA\Project_03\Project_03\bin\Debug\Project_03.pdb
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\TA\Project_03\Project_03\obj\Debug\Project_03.csproj.AssemblyReference.cache
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\TA\Project_03\Project_03\obj\Debug\Project_03.csproj.SuggestedBindingRedirects.cache
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\TA\Project_03\Project_03\obj\Debug\Project_03.Form1.resources
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\TA\Project_03\Project_03\obj\Debug\Project_03.Properties.Resources.resources
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\TA\Project_03\Project_03\obj\Debug\Project_03.csproj.GenerateResource.cache
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\TA\Project_03\Project_03\obj\Debug\Project_03.csproj.CoreCompileInputs.cache
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\TA\Project_03\Project_03\obj\Debug\Project_03.exe
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\TA\Project_03\Project_03\obj\Debug\Project_03.pdb

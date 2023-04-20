@@ -1,0 +1,10 @@
+C:\Users\Zwillinge\Pictures\Summer_Exercise\110_S_Ex_04\20160526A_GraphicDrawing\20160526A_GraphicDrawing\bin\Debug\20160526A_GraphicDrawing.exe.config
+C:\Users\Zwillinge\Pictures\Summer_Exercise\110_S_Ex_04\20160526A_GraphicDrawing\20160526A_GraphicDrawing\bin\Debug\20160526A_GraphicDrawing.exe
+C:\Users\Zwillinge\Pictures\Summer_Exercise\110_S_Ex_04\20160526A_GraphicDrawing\20160526A_GraphicDrawing\bin\Debug\20160526A_GraphicDrawing.pdb
+C:\Users\Zwillinge\Pictures\Summer_Exercise\110_S_Ex_04\20160526A_GraphicDrawing\20160526A_GraphicDrawing\obj\Debug\20160526A_GraphicDrawing.csprojAssemblyReference.cache
+C:\Users\Zwillinge\Pictures\Summer_Exercise\110_S_Ex_04\20160526A_GraphicDrawing\20160526A_GraphicDrawing\obj\Debug\_20160526A_GraphicDrawing.Form1.resources
+C:\Users\Zwillinge\Pictures\Summer_Exercise\110_S_Ex_04\20160526A_GraphicDrawing\20160526A_GraphicDrawing\obj\Debug\_20160526A_GraphicDrawing.Properties.Resources.resources
+C:\Users\Zwillinge\Pictures\Summer_Exercise\110_S_Ex_04\20160526A_GraphicDrawing\20160526A_GraphicDrawing\obj\Debug\20160526A_GraphicDrawing.csproj.GenerateResource.cache
+C:\Users\Zwillinge\Pictures\Summer_Exercise\110_S_Ex_04\20160526A_GraphicDrawing\20160526A_GraphicDrawing\obj\Debug\20160526A_GraphicDrawing.csproj.CoreCompileInputs.cache
+C:\Users\Zwillinge\Pictures\Summer_Exercise\110_S_Ex_04\20160526A_GraphicDrawing\20160526A_GraphicDrawing\obj\Debug\20160526A_GraphicDrawing.exe
+C:\Users\Zwillinge\Pictures\Summer_Exercise\110_S_Ex_04\20160526A_GraphicDrawing\20160526A_GraphicDrawing\obj\Debug\20160526A_GraphicDrawing.pdb

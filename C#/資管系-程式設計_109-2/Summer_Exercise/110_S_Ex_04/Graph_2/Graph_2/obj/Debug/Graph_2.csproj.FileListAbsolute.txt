@@ -1,0 +1,10 @@
+C:\Users\Zwillinge\Pictures\Summer_Exercise\110_S_Ex_04\Graph_2\Graph_2\bin\Debug\Graph_2.exe.config
+C:\Users\Zwillinge\Pictures\Summer_Exercise\110_S_Ex_04\Graph_2\Graph_2\bin\Debug\Graph_2.exe
+C:\Users\Zwillinge\Pictures\Summer_Exercise\110_S_Ex_04\Graph_2\Graph_2\bin\Debug\Graph_2.pdb
+C:\Users\Zwillinge\Pictures\Summer_Exercise\110_S_Ex_04\Graph_2\Graph_2\obj\Debug\Graph_2.csprojAssemblyReference.cache
+C:\Users\Zwillinge\Pictures\Summer_Exercise\110_S_Ex_04\Graph_2\Graph_2\obj\Debug\Graph_2.Form1.resources
+C:\Users\Zwillinge\Pictures\Summer_Exercise\110_S_Ex_04\Graph_2\Graph_2\obj\Debug\Graph_2.Properties.Resources.resources
+C:\Users\Zwillinge\Pictures\Summer_Exercise\110_S_Ex_04\Graph_2\Graph_2\obj\Debug\Graph_2.csproj.GenerateResource.cache
+C:\Users\Zwillinge\Pictures\Summer_Exercise\110_S_Ex_04\Graph_2\Graph_2\obj\Debug\Graph_2.csproj.CoreCompileInputs.cache
+C:\Users\Zwillinge\Pictures\Summer_Exercise\110_S_Ex_04\Graph_2\Graph_2\obj\Debug\Graph_2.exe
+C:\Users\Zwillinge\Pictures\Summer_Exercise\110_S_Ex_04\Graph_2\Graph_2\obj\Debug\Graph_2.pdb

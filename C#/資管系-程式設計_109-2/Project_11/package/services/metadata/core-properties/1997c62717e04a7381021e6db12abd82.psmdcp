@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?><coreProperties xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.openxmlformats.org/package/2006/metadata/core-properties"><dc:creator>JP</dc:creator><dc:description>QRCode Library is a .NET component that can be used to encode and decode QRCode. QRCode is a 2 dimensional bar code that originated in Japan. Nowadays it is widely used in a wide range of industries, e.g. for vehicle parts tracking and inventory management.
+
+QR stands for �Quick Response�. It was created by the Japanese corporation Denso-Wave in 1994 and is aimed at decoding contents at high speed. Nowadays, QR Code is used in mobile phones to ease data entry.
+
+QRCode can also be printed on a business card or shown on any display, which can then be captured by the mobile phone provided the mobile phone has the software to read QRCode.
+
+QRCode Library provides functions to:
+
+    Encode content into a QR Code image which can saved in JPEG, GIF, PNG, or BITMAP formats
+    Decode a QR Code image
+
+The library can be used in any .NET 3.5 Windows Application, ASP.NET web application or Windows Mobile device application.</dc:description><dc:identifier>MessagingToolkit.QRCode</dc:identifier><version>1.3.0</version><keywords>QR Qrcode QRcodes Encode Decode Barcode twit88</keywords></coreProperties>

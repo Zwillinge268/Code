@@ -1,0 +1,15 @@
+D:\Project_01\Project_01\obj\Debug\Project_01.csprojAssemblyReference.cache
+D:\Project_01\Project_01\obj\Debug\Project_01.csproj.CoreCompileInputs.cache
+D:\Project_01\Project_01\bin\Debug\Project_01.exe.config
+D:\Project_01\Project_01\bin\Debug\Project_01.exe
+D:\Project_01\Project_01\bin\Debug\Project_01.pdb
+D:\Project_01\Project_01\obj\Debug\Project_01.exe
+D:\Project_01\Project_01\obj\Debug\Project_01.pdb
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\Project_01\Project_01\bin\Debug\Project_01.exe.config
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\Project_01\Project_01\bin\Debug\Project_01.exe
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\Project_01\Project_01\bin\Debug\Project_01.pdb
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\Project_01\Project_01\obj\Debug\Project_01.csproj.AssemblyReference.cache
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\Project_01\Project_01\obj\Debug\Project_01.csproj.SuggestedBindingRedirects.cache
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\Project_01\Project_01\obj\Debug\Project_01.csproj.CoreCompileInputs.cache
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\Project_01\Project_01\obj\Debug\Project_01.exe
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\Project_01\Project_01\obj\Debug\Project_01.pdb

@@ -1,0 +1,10 @@
+C:\Users\Zwillinge\Pictures\MUST\CS20210803_Railway\CS20210803_Railway\bin\Debug\CS20210803_Railway.exe.config
+C:\Users\Zwillinge\Pictures\MUST\CS20210803_Railway\CS20210803_Railway\bin\Debug\CS20210803_Railway.exe
+C:\Users\Zwillinge\Pictures\MUST\CS20210803_Railway\CS20210803_Railway\bin\Debug\CS20210803_Railway.pdb
+C:\Users\Zwillinge\Pictures\MUST\CS20210803_Railway\CS20210803_Railway\obj\Debug\CS20210803_Railway.csprojAssemblyReference.cache
+C:\Users\Zwillinge\Pictures\MUST\CS20210803_Railway\CS20210803_Railway\obj\Debug\CS20210803_Railway.Form1.resources
+C:\Users\Zwillinge\Pictures\MUST\CS20210803_Railway\CS20210803_Railway\obj\Debug\CS20210803_Railway.Properties.Resources.resources
+C:\Users\Zwillinge\Pictures\MUST\CS20210803_Railway\CS20210803_Railway\obj\Debug\CS20210803_Railway.csproj.GenerateResource.cache
+C:\Users\Zwillinge\Pictures\MUST\CS20210803_Railway\CS20210803_Railway\obj\Debug\CS20210803_Railway.csproj.CoreCompileInputs.cache
+C:\Users\Zwillinge\Pictures\MUST\CS20210803_Railway\CS20210803_Railway\obj\Debug\CS20210803_Railway.exe
+C:\Users\Zwillinge\Pictures\MUST\CS20210803_Railway\CS20210803_Railway\obj\Debug\CS20210803_Railway.pdb

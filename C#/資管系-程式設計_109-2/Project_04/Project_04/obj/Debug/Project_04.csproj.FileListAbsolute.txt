@@ -1,0 +1,51 @@
+D:\123\Project_04\Project_04\obj\Debug\Project_04.csprojAssemblyReference.cache
+D:\123\Project_04\Project_04\obj\Debug\Project_04.Properties.Resources.resources
+D:\123\Project_04\Project_04\obj\Debug\Project_04.csproj.GenerateResource.cache
+D:\123\Project_04\Project_04\obj\Debug\Project_04.csproj.CoreCompileInputs.cache
+D:\123\Project_04\Project_04\obj\Debug\Project_04.IMAB.resources
+D:\123\Project_04\Project_04\bin\Debug\Project_04.exe.config
+D:\123\Project_04\Project_04\bin\Debug\Project_04.exe
+D:\123\Project_04\Project_04\bin\Debug\Project_04.pdb
+D:\123\Project_04\Project_04\obj\Debug\Project_04.exe
+D:\123\Project_04\Project_04\obj\Debug\Project_04.pdb
+F:\Visual Studio C#\資管系-程式設計_109-2\Project_04\Project_04\bin\Debug\Project_04.exe.config
+F:\Visual Studio C#\資管系-程式設計_109-2\Project_04\Project_04\bin\Debug\Project_04.exe
+F:\Visual Studio C#\資管系-程式設計_109-2\Project_04\Project_04\bin\Debug\Project_04.pdb
+F:\Visual Studio C#\資管系-程式設計_109-2\Project_04\Project_04\obj\Debug\Project_04.csprojAssemblyReference.cache
+F:\Visual Studio C#\資管系-程式設計_109-2\Project_04\Project_04\obj\Debug\Project_04.IMAB.resources
+F:\Visual Studio C#\資管系-程式設計_109-2\Project_04\Project_04\obj\Debug\Project_04.Properties.Resources.resources
+F:\Visual Studio C#\資管系-程式設計_109-2\Project_04\Project_04\obj\Debug\Project_04.csproj.GenerateResource.cache
+F:\Visual Studio C#\資管系-程式設計_109-2\Project_04\Project_04\obj\Debug\Project_04.csproj.CoreCompileInputs.cache
+F:\Visual Studio C#\資管系-程式設計_109-2\Project_04\Project_04\obj\Debug\Project_04.exe
+F:\Visual Studio C#\資管系-程式設計_109-2\Project_04\Project_04\obj\Debug\Project_04.pdb
+D:\Project_04\Project_04\bin\Debug\Project_04.exe.config
+D:\Project_04\Project_04\bin\Debug\Project_04.exe
+D:\Project_04\Project_04\bin\Debug\Project_04.pdb
+D:\Project_04\Project_04\obj\Debug\Project_04.csprojAssemblyReference.cache
+D:\Project_04\Project_04\obj\Debug\Project_04.IMAB.resources
+D:\Project_04\Project_04\obj\Debug\Project_04.Properties.Resources.resources
+D:\Project_04\Project_04\obj\Debug\Project_04.csproj.GenerateResource.cache
+D:\Project_04\Project_04\obj\Debug\Project_04.csproj.CoreCompileInputs.cache
+D:\Project_04\Project_04\obj\Debug\Project_04.exe
+D:\Project_04\Project_04\obj\Debug\Project_04.pdb
+D:\Visual Studio C#\資管系-程式設計_109-2\Project_04\Project_04\obj\Debug\Project_04.csprojAssemblyReference.cache
+D:\Visual Studio C#\資管系-程式設計_109-2\Project_04\Project_04\obj\Debug\Project_04.IMAB.resources
+D:\Visual Studio C#\資管系-程式設計_109-2\Project_04\Project_04\obj\Debug\Project_04.Properties.Resources.resources
+D:\Visual Studio C#\資管系-程式設計_109-2\Project_04\Project_04\obj\Debug\Project_04.csproj.GenerateResource.cache
+D:\Visual Studio C#\資管系-程式設計_109-2\Project_04\Project_04\obj\Debug\Project_04.csproj.CoreCompileInputs.cache
+D:\Visual Studio C#\資管系-程式設計_109-2\Project_04\Project_04\obj\Debug\Project_04.exe
+D:\Visual Studio C#\資管系-程式設計_109-2\Project_04\Project_04\obj\Debug\Project_04.pdb
+D:\Visual Studio C#\資管系-程式設計_109-2\Project_04\Project_04\bin\Debug\Project_04.exe.config
+D:\Visual Studio C#\資管系-程式設計_109-2\Project_04\Project_04\bin\Debug\Project_04.exe
+D:\Visual Studio C#\資管系-程式設計_109-2\Project_04\Project_04\bin\Debug\Project_04.pdb
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\Project_04\Project_04\bin\Debug\Project_04.exe.config
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\Project_04\Project_04\bin\Debug\Project_04.exe
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\Project_04\Project_04\bin\Debug\Project_04.pdb
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\Project_04\Project_04\obj\Debug\Project_04.csproj.AssemblyReference.cache
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\Project_04\Project_04\obj\Debug\Project_04.csproj.SuggestedBindingRedirects.cache
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\Project_04\Project_04\obj\Debug\Project_04.IMAB.resources
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\Project_04\Project_04\obj\Debug\Project_04.Properties.Resources.resources
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\Project_04\Project_04\obj\Debug\Project_04.csproj.GenerateResource.cache
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\Project_04\Project_04\obj\Debug\Project_04.csproj.CoreCompileInputs.cache
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\Project_04\Project_04\obj\Debug\Project_04.exe
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\Project_04\Project_04\obj\Debug\Project_04.pdb

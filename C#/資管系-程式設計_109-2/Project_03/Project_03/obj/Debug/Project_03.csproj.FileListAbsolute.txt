@@ -1,0 +1,29 @@
+D:\Project_03\Project_03\obj\Debug\Project_03.csprojAssemblyReference.cache
+D:\Project_03\Project_03\obj\Debug\Project_03.csproj.CoreCompileInputs.cache
+D:\Project_03\Project_03\bin\Debug\Project_03.exe.config
+D:\Project_03\Project_03\bin\Debug\Project_03.exe
+D:\Project_03\Project_03\bin\Debug\Project_03.pdb
+D:\Project_03\Project_03\obj\Debug\Project_03.exe
+D:\Project_03\Project_03\obj\Debug\Project_03.pdb
+D:\Visual Studio C#\資管系-程式設計_109-2\Project_03\Project_03\bin\Debug\Project_03.exe.config
+D:\Visual Studio C#\資管系-程式設計_109-2\Project_03\Project_03\bin\Debug\Project_03.exe
+D:\Visual Studio C#\資管系-程式設計_109-2\Project_03\Project_03\bin\Debug\Project_03.pdb
+D:\Visual Studio C#\資管系-程式設計_109-2\Project_03\Project_03\obj\Debug\Project_03.csprojAssemblyReference.cache
+D:\Visual Studio C#\資管系-程式設計_109-2\Project_03\Project_03\obj\Debug\Project_03.csproj.CoreCompileInputs.cache
+D:\Visual Studio C#\資管系-程式設計_109-2\Project_03\Project_03\obj\Debug\Project_03.exe
+D:\Visual Studio C#\資管系-程式設計_109-2\Project_03\Project_03\obj\Debug\Project_03.pdb
+F:\Visual Studio C#\資管系-程式設計_109-2\Project_03\Project_03\bin\Debug\Project_03.exe.config
+F:\Visual Studio C#\資管系-程式設計_109-2\Project_03\Project_03\bin\Debug\Project_03.exe
+F:\Visual Studio C#\資管系-程式設計_109-2\Project_03\Project_03\bin\Debug\Project_03.pdb
+F:\Visual Studio C#\資管系-程式設計_109-2\Project_03\Project_03\obj\Debug\Project_03.csprojAssemblyReference.cache
+F:\Visual Studio C#\資管系-程式設計_109-2\Project_03\Project_03\obj\Debug\Project_03.csproj.CoreCompileInputs.cache
+F:\Visual Studio C#\資管系-程式設計_109-2\Project_03\Project_03\obj\Debug\Project_03.exe
+F:\Visual Studio C#\資管系-程式設計_109-2\Project_03\Project_03\obj\Debug\Project_03.pdb
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\Project_03\Project_03\bin\Debug\Project_03.exe.config
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\Project_03\Project_03\bin\Debug\Project_03.exe
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\Project_03\Project_03\bin\Debug\Project_03.pdb
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\Project_03\Project_03\obj\Debug\Project_03.csproj.AssemblyReference.cache
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\Project_03\Project_03\obj\Debug\Project_03.csproj.SuggestedBindingRedirects.cache
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\Project_03\Project_03\obj\Debug\Project_03.csproj.CoreCompileInputs.cache
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\Project_03\Project_03\obj\Debug\Project_03.exe
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\Project_03\Project_03\obj\Debug\Project_03.pdb

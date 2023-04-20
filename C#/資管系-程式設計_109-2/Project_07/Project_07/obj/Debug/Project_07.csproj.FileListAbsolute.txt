@@ -1,0 +1,34 @@
+C:\Users\Zwillinge\Videos\Project_07\Project_07\bin\Debug\Project_07.exe.config
+C:\Users\Zwillinge\Videos\Project_07\Project_07\bin\Debug\Project_07.exe
+C:\Users\Zwillinge\Videos\Project_07\Project_07\bin\Debug\Project_07.pdb
+C:\Users\Zwillinge\Videos\Project_07\Project_07\obj\Debug\Project_07.csprojAssemblyReference.cache
+C:\Users\Zwillinge\Videos\Project_07\Project_07\obj\Debug\Project_07.Form1.resources
+C:\Users\Zwillinge\Videos\Project_07\Project_07\obj\Debug\Project_07.Properties.Resources.resources
+C:\Users\Zwillinge\Videos\Project_07\Project_07\obj\Debug\Project_07.csproj.GenerateResource.cache
+C:\Users\Zwillinge\Videos\Project_07\Project_07\obj\Debug\Project_07.csproj.CoreCompileInputs.cache
+C:\Users\Zwillinge\Videos\Project_07\Project_07\obj\Debug\Project_07.exe
+C:\Users\Zwillinge\Videos\Project_07\Project_07\obj\Debug\Project_07.pdb
+C:\Users\Zwillinge\Videos\Project_07\Project_07\obj\Debug\Project_07.Resource1.resources
+C:\Users\Zwillinge\Documents\Study\Visual Studio C#\資管系-程式設計_109-2\Project_07\Project_07\bin\Debug\Project_07.exe.config
+C:\Users\Zwillinge\Documents\Study\Visual Studio C#\資管系-程式設計_109-2\Project_07\Project_07\bin\Debug\Project_07.exe
+C:\Users\Zwillinge\Documents\Study\Visual Studio C#\資管系-程式設計_109-2\Project_07\Project_07\bin\Debug\Project_07.pdb
+C:\Users\Zwillinge\Documents\Study\Visual Studio C#\資管系-程式設計_109-2\Project_07\Project_07\obj\Debug\Project_07.csprojAssemblyReference.cache
+C:\Users\Zwillinge\Documents\Study\Visual Studio C#\資管系-程式設計_109-2\Project_07\Project_07\obj\Debug\Project_07.Form1.resources
+C:\Users\Zwillinge\Documents\Study\Visual Studio C#\資管系-程式設計_109-2\Project_07\Project_07\obj\Debug\Project_07.Properties.Resources.resources
+C:\Users\Zwillinge\Documents\Study\Visual Studio C#\資管系-程式設計_109-2\Project_07\Project_07\obj\Debug\Project_07.Resource1.resources
+C:\Users\Zwillinge\Documents\Study\Visual Studio C#\資管系-程式設計_109-2\Project_07\Project_07\obj\Debug\Project_07.csproj.GenerateResource.cache
+C:\Users\Zwillinge\Documents\Study\Visual Studio C#\資管系-程式設計_109-2\Project_07\Project_07\obj\Debug\Project_07.csproj.CoreCompileInputs.cache
+C:\Users\Zwillinge\Documents\Study\Visual Studio C#\資管系-程式設計_109-2\Project_07\Project_07\obj\Debug\Project_07.exe
+C:\Users\Zwillinge\Documents\Study\Visual Studio C#\資管系-程式設計_109-2\Project_07\Project_07\obj\Debug\Project_07.pdb
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\Project_07\Project_07\bin\Debug\Project_07.exe.config
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\Project_07\Project_07\bin\Debug\Project_07.exe
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\Project_07\Project_07\bin\Debug\Project_07.pdb
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\Project_07\Project_07\obj\Debug\Project_07.csproj.AssemblyReference.cache
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\Project_07\Project_07\obj\Debug\Project_07.csproj.SuggestedBindingRedirects.cache
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\Project_07\Project_07\obj\Debug\Project_07.Form1.resources
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\Project_07\Project_07\obj\Debug\Project_07.Properties.Resources.resources
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\Project_07\Project_07\obj\Debug\Project_07.Resource1.resources
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\Project_07\Project_07\obj\Debug\Project_07.csproj.GenerateResource.cache
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\Project_07\Project_07\obj\Debug\Project_07.csproj.CoreCompileInputs.cache
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\Project_07\Project_07\obj\Debug\Project_07.exe
+C:\Users\Project_im_sub\Downloads\資管系-程式設計_109-2\Project_07\Project_07\obj\Debug\Project_07.pdb
