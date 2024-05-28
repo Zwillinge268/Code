@@ -1,0 +1,19 @@
+{
+    "Student": [
+        {
+            "name": "Molecule Man",
+            "gender": "male",
+            "id": "A0001"
+        },
+        {
+            "name": "Madame Uppercut",
+            "gender": "male",
+            "id": "A0002"
+        },
+        {
+            "name": "Eternal Flame",
+            "gender": "female",
+            "id": "A0003"
+        }
+    ]
+}
